@@ -1,4 +1,4 @@
-# 📘 Study Scheduler Pro — versão Word Premium com Capa Automática
+# 📘 Study Scheduler Pro 
 
 import pandas as pd
 from datetime import datetime, timedelta
@@ -335,5 +335,6 @@ tk.Button(frame_right, text="📄 Gerar Agenda Word com Capa", command=gerar_age
 footer = tk.Label(janela, text="Desenvolvido com ❤️ por Code GPT",
                   bg="#f0f4fa", fg="#444444", font=("Arial", 10, "italic"))
 footer.pack(side="bottom", pady=5)
+
 
 janela.mainloop()
