@@ -1,0 +1,4 @@
+pandas
+pillow
+matplotlib
+python-docx
